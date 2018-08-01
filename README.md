@@ -19,7 +19,7 @@ Protractor WebApp UI Automation FrameWork
    #### command to run tests :
   - Navigate to Project directory and run the below command
 
-         cd protractorFramework
+         cd protractor-jasmine-typescript-framework
          npm install
     
   - Command to run the required tests
