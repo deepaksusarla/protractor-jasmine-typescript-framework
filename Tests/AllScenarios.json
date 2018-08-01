@@ -1,0 +1,22 @@
+{
+   "browserDetails":[
+        {
+            "browserName":"chrome",
+            "browserVersion":"",
+            "osName":"Windows",
+            "RunOnThis":true
+        },
+        {
+            "browserName":"firefox",
+            "browserVersion":"",
+            "osName":"Windows",
+            "RunOnThis":false
+        }
+   ],
+    "Scenarios": [
+        {
+        "fileName":"Login",
+        "isExecutable":true
+        }
+    ]
+}

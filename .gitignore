@@ -1,0 +1,9 @@
+.tscache/
+JSFiles/
+Logs/
+node_modules/
+TestData/*.json
+TestReports/
+debug.log
+package-lock.json
+*.txt
