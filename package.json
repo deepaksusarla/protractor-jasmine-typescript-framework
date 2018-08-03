@@ -1,7 +1,7 @@
 {
-  "name": "concentoautomation",
+  "name": "protractorautomation",
   "version": "1.0.0",
-  "description": "Automation of Concento Web Application Project",
+  "description": "Protractor Web UI Automation",
   "main": "index.js",
   "devDependencies": {
     "protractor": "5.3.0",
@@ -28,6 +28,6 @@
   "scripts": {
     "prehook": "grunt preHook"
   },
-  "author": "Concento",
+  "author": "Deepak",
   "license": "MIT"
 }
